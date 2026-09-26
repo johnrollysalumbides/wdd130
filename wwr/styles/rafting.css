@@ -140,7 +140,7 @@ h2{
     text-align: center;
     background-color: var(--primary-color);
     width: 100%;
-    color: #fff;
+    color: white;
 }
 
 section {
@@ -148,7 +148,7 @@ section {
 }
 footer{
     color: var(--accent2-color);
-    border-top: 1px solid #000000;
+    border-top: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
