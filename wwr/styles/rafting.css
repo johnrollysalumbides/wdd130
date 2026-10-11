@@ -183,6 +183,10 @@ footer {
 }
 
 /* contact page */
+.contact-information h1 {
+    color: var(--accent2-color);
+}
+
 .contact-information {
     text-align: center;
     color: #000000;
